@@ -112,7 +112,7 @@ GA4 · GTM · BigQuery · Adobe Analytics · REST APIs
 #### 💬 Telegram Bot (2023)
 
 - Developed **asynchronous Telegram bot** (Aiogram) with Dockerized **CI/CD (GitHub Actions)**.
-- Managed infrastructure using **Terraform** and Docker Compose.
+- Managed infrastructure using Docker Compose.
 - Configured **real-time logging** with Grafana + PostgreSQL.
 
 ---
