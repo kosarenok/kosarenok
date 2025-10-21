@@ -29,6 +29,21 @@ scale**.
 
 ### ⚙️ Technical Stack
 
+<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Airflow" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg"/>
+<img align="left" alt="dbt" width="35px" src="/icons/Dbt-Icon--Streamline-Svg-Logos.svg"/>
+<img align="left" alt="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="Kubernetes" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+<img align="left" alt="Kafka" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
+<img align="left" alt="GCP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+<img align="left" alt="AWS" width="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"/>
+<img align="left" alt="Grafana" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
+<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<br/>
+<br/>
+
 **Languages**  
 Python · SQL (PostgreSQL · ClickHouse · MySQL) · Bash · JavaScript
 
@@ -110,29 +125,10 @@ GA4 · GTM · BigQuery · Adobe Analytics · REST APIs
 
 ---
 
-### 🧰 Languages and Tools
-
-<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="Airflow" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg"/>
-<img align="left" alt="dbt" width="35px" src="/icons/Dbt-Icon--Streamline-Svg-Logos.svg"/>
-<img align="left" alt="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="Kubernetes" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-<img align="left" alt="Kafka" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
-<img align="left" alt="GCP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-<img align="left" alt="AWS" width="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"/>
-<img align="left" alt="Grafana" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
-<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<br/>
-
----
-
 ### 🧩 About Me
 
 I enjoy building **data products** that make teams smarter, faster, and more independent.  
-When I’m not working with data pipelines, I experiment with **algorithmic trading**, **AI automation
-**, or **data visualization**.
+When I’m not working with data pipelines, I experiment with **algorithmic trading**, **AI automation**, or **data visualization**.
 
 > “Data is not oil — it’s renewable energy.”
 
