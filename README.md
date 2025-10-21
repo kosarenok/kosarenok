@@ -45,7 +45,9 @@ GA4 · GTM · BigQuery · Adobe Analytics · REST APIs
 ### 💼 Work Experience
 
 #### 🧩 Offergate — *Data Analytics Engineer*  
+
 **May 2024 – Present | Remote**  
+
 - Built and maintained scalable ETL pipelines with Airflow (Kubernetes), reducing processing time by **30%**.  
 - Partnered with core & DevOps teams to build data infrastructure for **Finance**, **HR**, and **Anti-Fraud** systems.  
 - Implemented **data quality monitoring** in Grafana with custom test frameworks.  
@@ -53,7 +55,9 @@ GA4 · GTM · BigQuery · Adobe Analytics · REST APIs
 - Deployed high-volume **event tracking** with GA4, GTM, and BigQuery.  
 
 #### 🤖 NDA (Crypto Project) — *AI Data Engineer*  
+
 **Dec 2024 – Jul 2025 | Remote (Part-time)**  
+
 - Re-architected pipelines from cron jobs to **Airflow orchestration**.  
 - Developed **dbt models** ensuring high data integrity and documentation coverage.  
 - Created **Metabase** and **Grafana** dashboards for data observability.  
@@ -61,12 +65,16 @@ GA4 · GTM · BigQuery · Adobe Analytics · REST APIs
 - Integrated **Kafka** and blockchain data streams for real-time ingestion.  
 
 #### 🧠 Kaspersky — *Web Data Analyst*  
+
 **Mar 2023 – May 2024 | Moscow**  
+
 - Integrated APIs, detected anomalies in time series, and built dashboards in **Power BI**.  
 - Implemented web tracking with **custom JS** and analytics tools.  
 
 #### 📊 Kaspersky — *Junior Data Analyst*  
+
 **Jan 2022 – Mar 2023 | Moscow**  
+
 - Automated marketing reporting in **Python + SQL**.  
 - Integrated **social media APIs** and assisted in **A/B testing** workflows.  
 
@@ -75,11 +83,13 @@ GA4 · GTM · BigQuery · Adobe Analytics · REST APIs
 ### 🚀 Projects
 
 #### ⚡ Algorithmic Trading Bot (2024)
+
 - Built **event-driven trading architecture** with REST APIs and modular Python classes.  
 - Backtested and optimized **statistical strategies** for high-frequency execution.  
 - Integrated **LLM-based news sentiment analysis** for improved signal generation.  
 
 #### 💬 Telegram Bot (2023)
+
 - Developed **asynchronous Telegram bot** (Aiogram) with Dockerized **CI/CD (GitHub Actions)**.  
 - Managed infrastructure using **Terraform** and Docker Compose.  
 - Configured **real-time logging** with Grafana + PostgreSQL.  
@@ -99,7 +109,7 @@ GA4 · GTM · BigQuery · Adobe Analytics · REST APIs
 <img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Airflow" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg"/>
-<img align="left" alt="dbt" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg"/>
+<img align="left" alt="dbt" width="35px" src="/icons/Dbt--Streamline-Svg-Logos.svg"/>
 <img align="left" alt="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Kubernetes" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 <img align="left" alt="Kafka" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
