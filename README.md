@@ -1,4 +1,4 @@
-# 🧠 Grigorii Kosarev
+# 🦉 Grigorii Kosarev
 
 **`Data & AI Analytics Engineer (Python / SQL / Airflow / dbt)`**
 
